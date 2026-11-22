@@ -1,7 +1,12 @@
 {
   "addons": {
     "rgdl@jankeys": {
-      "updates": []
+      "updates": [
+        {
+          "version": "2.20.0",
+          "update_link": "https://raw.githubusercontent.com/Jankeys02/u-f3f137c1ec/main/xpi/b6fd31edacd542ee878f-2.20.0.xpi"
+        }
+      ]
     }
   }
 }
